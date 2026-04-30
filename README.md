@@ -1,5 +1,6 @@
 # golang-comp
 
+
 Repo perso pour bosser des problèmes de programmation compétitive en Go, surtout dans un format Codeforces.
 
 L'idée n'est pas d'automatiser la réflexion ou d'écrire les solutions à ma place. Le but est d'avoir une structure propre, simple à relire, et une pipeline qui vérifie que le code reste correct après chaque push.
